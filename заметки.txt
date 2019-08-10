@@ -4,7 +4,8 @@ firebase list
 
 firebase init hosting
 
-Развернутое приложение будет доступно по адресу links-for-developer.web.app.
+Развернутое приложение будет доступно по адресу
+https://links-for-developer.web.app
 
 public root directory.  - "." - все что от корня будет записано на сервер
 
