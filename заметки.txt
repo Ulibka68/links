@@ -11,3 +11,10 @@ public root directory.  - "." - все что от корня будет зап�
 
 
 firebase deploy
+
+
+--------------
+https://habr.com/ru/post/208890/
+
+npm install gulp-cli -g
+npm install gulp gulp-sass --save-dev

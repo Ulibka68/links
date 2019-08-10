@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Ulibka68/links/issues"
   },
-  "homepage": "https://github.com/Ulibka68/links#readme"
+  "homepage": "https://github.com/Ulibka68/links#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
 }
